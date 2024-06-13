@@ -2,4 +2,4 @@
 LLM for BIM(Building Information Modeling). 
 
 # Functions
-Fine turning LLM model for BIM
+Fine turning LLM model for BIM with RAG.
