@@ -7,10 +7,8 @@ This repository provides two essential tools for BIM-related machine learning ta
 
 <div style="text-align: center;">
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" width="300">
-</div>
-<div style="text-align: center;">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="300">
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img3.JPG" width="300">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="300">
 </div>
 
 ---
@@ -76,19 +74,19 @@ This repository provides two essential tools for BIM-related machine learning ta
 ## **References**
 - **AutoGen Dataset**: Generates fine-tuning datasets with vagueness assessment.
 - **Fine-Tuning**: Implements LoRA for efficient model tuning based on [Anyscale Blog](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2).
+- **Research paper**: Training data and fine-tuning process for developing LLM-based BIM domain knowledge model based on [KCI portal](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003141449).
 
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
 ---
 
 ## **Contact**
-For questions or collaboration opportunities:
+For questions or collaboration opportunities:😊
 - **Author**: Taewook Kang
 - **Email**: laputa99999@gmail.com
 
 --- 
 
-This README provides a structured and professional way to describe your project on GitHub. Let me know if you’d like further customizations! 😊
