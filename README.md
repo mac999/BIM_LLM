@@ -6,9 +6,9 @@ This repository provides two essential tools for BIM-related machine learning ta
 2. **LLM Fine-Tuning with PEFT**: Fine-tunes a BIM-specific language model (SLM) using PEFT techniques on an 8GB GPU.
 
 <div style="text-align: center;">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" height="400">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img3.JPG" height="400">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" height="400">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" height="200">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img3.JPG" height="200">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" height="200">
 </div>
 
 ---
