@@ -7,6 +7,8 @@ This repository provides two essential tools for BIM-related machine learning ta
 
 <div style="text-align: center;">
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" width="300">
+</div>
+<div style="text-align: center;">
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="300">
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img3.JPG" width="300">
 </div>
