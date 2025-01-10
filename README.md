@@ -1,4 +1,4 @@
-# **BIM AutoGen Dataset and LLM Fine-Tuning for BIM**
+# **BIM AutoGen Dataset and LLM Fine-Tuning for making BIM LLM**
 
 ## **Overview**
 This repository provides two essential tools for BIM-related machine learning tasks:
