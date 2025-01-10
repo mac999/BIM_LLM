@@ -5,10 +5,11 @@ This repository provides two essential tools for BIM-related machine learning ta
 1. **BIM AutoGen Dataset**: Automatically generates QA datasets for fine-tuning LLMs from PDF documents.
 2. **LLM Fine-Tuning with PEFT**: Fine-tunes a BIM-specific language model (SLM) using PEFT techniques on an 8GB GPU.
 
+<center>
 <img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" width="300">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" width="300">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img1.JPG" width="300">
-
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="300">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img3.JPG" width="300">
+</center>
 ---
 
 ## **Features**
