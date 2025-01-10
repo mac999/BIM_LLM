@@ -1,7 +1,7 @@
 # **BIM AutoGen Dataset and LLM Fine-Tuning for making BIM LLM**
 
 ## **Overview**
-This repository provides two essential tools for BIM-related machine learning tasks:
+This repository provides two simple tools for BIM-related machine learning tasks:
 1. **BIM AutoGen Dataset**: Automatically generates QA datasets for fine-tuning LLMs from PDF documents.
 2. **LLM Fine-Tuning with PEFT**: Fine-tunes a BIM-specific language model (SLM) using PEFT techniques on an 8GB GPU.
 
