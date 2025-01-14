@@ -12,8 +12,8 @@ This repository provides two simple tools for BIM-related machine learning tasks
 </br>
 The below figure is the results between GPT and BIM Fine-Tuning LLM model.</br>
 <div style="text-align: center;">
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img5.JPG" width="300"></br>
-<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="300">
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img5.JPG" width="500"></br>
+<img src="https://github.com/mac999/BIM_LLM/blob/main/doc/img2.JPG" width="500">
 </div>
 
 ---
